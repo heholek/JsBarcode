@@ -62,7 +62,7 @@
     "request": "^2.88.2",
     "webpack": "^4.44.1",
     "webpack-stream": "^5.2.1",
-    "xmldom": "^0.1.31"
+    "xmldom": "^0.6.0"
   },
   "typings": "./jsbarcode.d.ts",
   "config": {
